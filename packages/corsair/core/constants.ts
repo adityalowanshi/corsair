@@ -20,6 +20,7 @@ export const BaseProviders = [
 	'box',
 	'cal',
 	'calendly',
+	'composio',
 	'cursor',
 	'discord',
 	'dodopayments',
@@ -77,6 +78,7 @@ export type AllProviders =
 	| 'box'
 	| 'cal'
 	| 'calendly'
+	| 'composio'
 	| 'cursor'
 	| 'discord'
 	| 'dodopayments'
